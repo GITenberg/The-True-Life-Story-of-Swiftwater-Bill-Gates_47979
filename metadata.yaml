@@ -1,10 +1,16 @@
 _repo: The-True-Life-Story-of-Swiftwater-Bill-Gates_47979
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47979-h/images/cover.jpg
 creator:
   author:
     agent_name: Beebe, Iola
     gutenberg_agent_id: '44555'
     url: http://www.gutenberg.org/2009/agents/44555
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47979#The-True-Life-Story-of-Swiftwater-Bill-Gates
 gutenberg_issued: '2015-01-15'
 gutenberg_type: Text
 identifiers:
